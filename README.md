@@ -1,7 +1,6 @@
 # Real-Time-Stock-Market-Chatbot
 A real-time stock market chatbot powered by Meyka API, offering live data, AI grading, and long-term forecasts.
-# Real-Time-Stock-Market-Chatbot
-A real-time stock market chatbot powered by Meyka API, offering live data, AI grading, and long-term forecasts.
+
 
 ## 📈 Real-Time Stock Market Chatbot using Meyka API
 <img width="720" height="329" alt="image" src="https://github.com/user-attachments/assets/47e606fb-ecba-49be-9958-2485da884e12" />
